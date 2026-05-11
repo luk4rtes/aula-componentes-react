@@ -48,14 +48,6 @@ React
 JavaScript
 ```
 
-Depois:
-
-```bash
-cd aula-componentes
-npm install
-npm run dev
-```
-
 ---
 
 ## 3. Configurando o Tailwind CSS
